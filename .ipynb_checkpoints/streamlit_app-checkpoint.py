@@ -1,15 +1,10 @@
 import streamlit as st
 
 
-
 st.title("وين نسكن في الرياض؟")
 image = "Riyadh.jpeg"
 st.image(image, caption="")
 
-#st.set_option('deprecation.showPyplotGlobalUse', False)
-#st.set_option('text.alignment', 'left')
-
-statement = ""
 st.markdown("<p style='text-align: right; '>أنا سامر ، وفي يوم من الأيام تخرجت من الجامعة الحمدلله وبدأ وقت الضياع، الى أن جاء اليوم اللي تغيرت فيه الأحداث، وجاني رابط تسجيل في معسكرات طويق!!</p><br>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; '>قدمت واختبرت وخلصت المقابلات وبعدها نمت، لما قمت لقيت المفاجأة! رسالة القبول!!! واو أنا ايش سويت، معقولة انقبلت!!</p><br>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; '>طيب ايش اسوي الحين! وايش الخطوة اللي بعدها! أنا في مدينة وأكاديمية طويق في مدينة ثانية، الوضع جديد بالنسبة لي ومدينة غريبة عني، مافيه إلا أني أشوف صديقي محمد </p><br>", unsafe_allow_html=True)
@@ -21,9 +16,6 @@ st.markdown("<p style='text-align: right; '>سامر: كيف نظام السكن
 st.markdown("<p style='text-align: right; '>محمد: ممم تمام قدام </p><br>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; '>سامر: طيب وين نروح؟ ناخذ شقه و ناخذ راحتنا فيها؟ احنا نبغا شي حديث لان الاشياء القديمه تجيب الاكتئاب</p><br>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; '>محمد:  ما ناقصنا اكتئاب , خلينا نشوف الأسعار</p><br>", unsafe_allow_html=True)
-
-
-
 
 image =  "image1.png"
 st.image(image, caption="")
