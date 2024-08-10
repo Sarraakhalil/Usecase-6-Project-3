@@ -1,11 +1,13 @@
 import streamlit as st
 
-#st.set_page_config(page_title="Hello")
+
 
 st.title("وين نسكن في الرياض؟")
 image = "Riyadh.jpeg"
 st.image(image, caption="")
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+st.set_option('text.alignment', 'right')
 
 statement = ""
 st.write("أنا سامر ، وفي يوم من الأيام تخرجت من الجامعة الحمدلله وبدأ وقت الضياع، الى أن جاء اليوم اللي تغيرت فيه الأحداث، وجاني رابط تسجيل في معسكرات طويق!!")
