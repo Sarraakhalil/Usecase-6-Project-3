@@ -62,21 +62,21 @@ ii. check outliers
 ## Visualiztion and Conclusion 
 ![Alt text](1.webp)
 - Insight 1: A chart illustrating the top 10 neighborhoods in Riyadh with rental apartments.
-
+![Alt text](2.webp)
 - Insight 2: The number of furnished rental apartments in different neighborhoods in Riyadh.
-
+![Alt text](3.webp)
 - Insight 3: The chart here shows the relationship between furnished apartments and air conditioners. Specifically, it illustrates how many unfurnished apartments have air conditioning.
-
+![Alt text](4.webp)
 - Insight 4: The chart illustrates the age of the apartment compared to its price, revealing an inverse relationship where the price decreases as the age of the apartment increases.
-
+![Alt text](5.webp)
 - Insight 5: The chart shows the relationship between price and square meters. It indicates a direct relationship, where the price increases as the area of the apartment increases.
-
+![Alt text](6.webp)
 - Insight 6: The chart shows the top 100 most expensive plots of land along with the frequency of each plot.
-
+![Alt text](7.webp)
 - Insight 7: The chart illustrates the relationship between land prices in different areas of Riyadh.
-
+![Alt text](8.webp)
 - Insight 8: The chart shows the number of plots of land that have the same number of rooms. Each column represents a specific number of rooms and indicates how many plots have that exact number of rooms.
-
+![Alt text](9.webp)
 - Insight 9: The chart shows the top ten prices and the number of land that share the same price.
-
+![Alt text](imge3.png)
 - Insight 10: The chart shows the price of apartments with 3 rooms or fewer in the Al-Narjis neighborhood.
