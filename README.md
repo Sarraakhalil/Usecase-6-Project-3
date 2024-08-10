@@ -1,8 +1,8 @@
 ## Team Memebers 
 - Sarraa Almudayfir 
-- Samer 
-- Naif 
-- Mohammed 
+- Samer Gharbi
+- Naif Ghannam
+- Mohammed Alamri
 
 ## Introduction
 The project aims to analyze the prices of apartments, villas, and lands in Riyadh and identify their distribution across different neighborhoods.
@@ -60,6 +60,7 @@ ii. check outliers
 
 
 ## Visualiztion and Conclusion 
+![Alt text](1.webp)
 - Insight 1: A chart illustrating the top 10 neighborhoods in Riyadh with rental apartments.
 
 - Insight 2: The number of furnished rental apartments in different neighborhoods in Riyadh.
