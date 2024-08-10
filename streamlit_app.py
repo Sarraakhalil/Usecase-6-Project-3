@@ -3,7 +3,7 @@ import streamlit as st
 #st.set_page_config(page_title="Hello")
 
 st.title("وين نسكن في الرياض؟")
-image = "applee.jpg"
+image = "Riyadh.jpeg"
 st.image(image, caption="")
 
 
