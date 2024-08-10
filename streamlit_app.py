@@ -40,31 +40,19 @@ st.markdown("<p style='text-align: right; '> (لحظة صمت)</p><br>", unsafe_
 st.markdown("<p style='text-align: right; '>سامر: منجدك أرض!!</p><br>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; '>نايف: ايوه وبشوف الأسعار ويمكن أعيش بالرياض واخذها بزنس</p><br>", unsafe_allow_html=True)
 
-
 image =  "image2.png"
 st.image(image, caption="")
 
-st.markdown("<p style='text-align: right; '></p><br>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: right; '></p><br>", unsafe_allow_html=True)
-statement = """ سامر: تحسب نفسك عايش بالمدينة! هذي الرياض يا حبيبي هذي اقل اسعار للارضي , اقل ارض بمية الف!   
-نايف : طيب بفكر , لا تنفخ
-محمد: طيب ايش رايكم ندور عن شقه ثلاث غرف في حي قريب من الاكاديميه ؟
-نايف : حي النرجس اقرب شي للمعسكر 
-"""
-
-st.write(statement)
+st.markdown("<p style='text-align: right; '>سامر: تحسب نفسك عايش بالمدينة! هذي الرياض يا حبيبي هذي اقل اسعار للارضي , اقل ارض بمية الف! </p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>نايف : طيب بفكر , لا تنفخ</p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>محمد: طيب ايش رايكم ندور عن شقه ثلاث غرف في حي قريب من الاكاديميه ؟</p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>نايف : حي النرجس اقرب شي للمعسكر </p><br>", unsafe_allow_html=True)
 
 image =  "imge3.png"
 st.image(image, caption="")
 
-statement = """محمد : والله انا شايف اسعار الثلاث غرف و الغرفتين في حي النرجس غاليه اسعارها تبدا من 30 الف الى 100 الف 
-سامر : انا اشوف اني ادفع في غرفه 30 الف وتكون مرتبه احسن من ادفع 30 الف في ثلاث غرف مبهدله 
-نايف : انا بروح اسكن عند اخوي وكل واحد يدبر عمره 
-سامر : يلا يا اخوان الوالد يناديني 
-
-"""
-st.write(statement)
-
-
-statement = " النهاية... لا تسكن مع صديقك وشوف اللي يناسبك ويناسب الميزانية"
-st.write(statement)
+st.markdown("<p style='text-align: right; '>محمد : والله انا شايف اسعار الثلاث غرف و الغرفتين في حي النرجس غاليه اسعارها تبدا من 30 الف الى 100 الف </p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>سامر : انا اشوف اني ادفع في غرفه 30 الف وتكون مرتبه احسن من ادفع 30 الف في ثلاث غرف مبهدله </p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>نايف : انا بروح اسكن عند اخوي وكل واحد يدبر عمره </p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>سامر : يلا يا اخوان الوالد يناديني </p><br>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right; '>النهاية... لا تسكن مع صديقك وشوف اللي يناسبك ويناسب الميزانية</p><br>", unsafe_allow_html=True)
