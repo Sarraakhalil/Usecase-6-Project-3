@@ -80,3 +80,6 @@ ii. check outliers
 - Insight 9: The chart shows the top ten prices and the number of land that share the same price.
 ![Alt text](imge3.png)
 - Insight 10: The chart shows the price of apartments with 3 rooms or fewer in the Al-Narjis neighborhood.
+
+
+https://nsrm9vpdmk2kkwccev9rcn.streamlit.app/
